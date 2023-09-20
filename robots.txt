@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Sitemap: https://bytebridge.services/sitemap.xml
+Disallow: /cgi-bin/
