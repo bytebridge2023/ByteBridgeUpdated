@@ -83,7 +83,7 @@ p {
 }
 
 .navbar-toggle .icon-bar {
-  background: #00ADB5;
+  background: #0a93c3;
 }
 
 input[type=email], input[type=password], input[type=text], input[type=tel] {
@@ -94,7 +94,7 @@ input[type=email], input[type=password], input[type=text], input[type=tel] {
 }
 input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, input[type=tel]:focus {
   box-shadow: none;
-  border: 1px solid #00ADB5;
+  border: 1px solid #0a93c3;
 }
 
 .form-control {
@@ -103,7 +103,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 .form-control:focus {
   box-shadow: none;
-  border: 1px solid #00ADB5;
+  border: 1px solid #0a93c3;
 }
 
 .py-7 {
@@ -131,7 +131,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .btn-main, .btn-small, .btn-transparent {
-  background: #00ADB5;
+  background: #0a93c3;
   color: #fff;
   transition: all 0.2s ease;
 }
@@ -141,8 +141,8 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .btn-solid-border {
-  border: 2px solid #00ADB5;
-  background: #00ADB5;
+  border: 2px solid #0a93c3;
+  background: #0a93c3;
   color: white;
 }
 .btn-solid-border:hover {
@@ -154,11 +154,11 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 .btn-transparent {
   background: transparent;
   padding: 0;
-  color: #00ADB5;
+  color: #0a93c3;
 }
 .btn-transparent:hover {
   background: transparent;
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .btn-large {
@@ -192,7 +192,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .bg-primary {
-  background: #00ADB5;
+  background: #0a93c3;
 }
 
 .bg-primary-dark {
@@ -233,7 +233,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .subtitle {
-  color: #00ADB5;
+  color: #0a93c3;
   font-size: 14px;
   letter-spacing: 1px;
 }
@@ -270,7 +270,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .text-color {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .text-black {
@@ -308,7 +308,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #00ADB5;
+  color: #0a93c3;
   text-decoration: none;
 }
 
@@ -420,7 +420,7 @@ a:focus {
 }
 #navbar .nav-link:hover, #navbar .nav-link:focus,
 #navbar .active .nav-link {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 #navbar .btn {
   padding: 0.7rem 1.5rem 0.5rem;
@@ -451,7 +451,7 @@ a:focus {
   padding: 0 8px;
 }
 .header-top .header-top-socials a:hover {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 .header-top .header-top-info {
   color: #919194;
@@ -480,7 +480,7 @@ a:focus {
   letter-spacing: 1px;
 }
 .navbar-brand span {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .dropdown-menu {
@@ -547,7 +547,7 @@ a:focus {
 .dropdown-submenu:hover > .dropdown-item,
 .dropdown-item.active,
 .dropdown-item:hover {
-  background: #00ADB5;
+  background: #0a93c3;
   color: #fff;
 }
 
@@ -625,7 +625,7 @@ ul.dropdown-menu li {
 }
 
 .color-one {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .color-two {
@@ -815,7 +815,7 @@ ul.dropdown-menu li {
   border-color: #dedede;
 }
 .pricing .btn-solid-border:Hover {
-  border-color: #00ADB5;
+  border-color: #0a93c3;
 }
 
 .portflio-item .portfolio-item-content {
@@ -857,7 +857,7 @@ ul.dropdown-menu li {
   align-items: center;
   justify-content: center;
   font-size: 80px;
-  color: #00ADB5;
+  color: #0a93c3;
   opacity: 0;
   transition: all 0.35s ease;
 }
@@ -922,7 +922,7 @@ ul.dropdown-menu li {
   transition: all 0.4s ease 0s;
 }
 .blog-item-content h3 a:hover {
-  color: #00ADB5 !important;
+  color: #0a93c3 !important;
 }
 
 .lh-36 {
@@ -975,7 +975,7 @@ h3.quote::before {
   content: "";
   width: 55px;
   height: 2px;
-  background: #00ADB5;
+  background: #0a93c3;
   position: absolute;
   top: 25px;
   left: 0;
@@ -1048,7 +1048,7 @@ h3.quote::before {
   font-weight: 500;
 }
 .post-comments .comment-author a {
-  color: #00ADB5;
+  color: #0a93c3;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -1059,7 +1059,7 @@ h3.quote::before {
   font-size: 12px;
 }
 .post-comments .comment-button {
-  color: #00ADB5;
+  color: #0a93c3;
   display: inline-block;
   margin-left: 5px;
   font-size: 12px;
@@ -1069,7 +1069,7 @@ h3.quote::before {
   display: inline-block;
 }
 .post-comments .comment-button:hover {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .post-excerpt {
@@ -1087,7 +1087,7 @@ h3.quote::before {
 .post-excerpt blockquote.quote-post p {
   line-height: 30px;
   font-size: 20px;
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .single-blog {
@@ -1114,7 +1114,7 @@ h3.quote::before {
   color: #000;
 }
 .next-prev a:hover {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 .next-prev .prev-post i {
   margin-right: 10px;
@@ -1133,7 +1133,7 @@ h3.quote::before {
   font-size: 16px;
 }
 .social-profile ul li a i:hover {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .comments-section {
@@ -1177,7 +1177,7 @@ h3.quote::before {
   margin-bottom: 8px;
 }
 .comment-wrap .media .media-heading a {
-  color: #00ADB5;
+  color: #0a93c3;
   font-size: 13px;
 }
 .comment-wrap .media .comment-meta {
@@ -1198,7 +1198,7 @@ h3.quote::before {
 }
 .comment-reply-form input:focus, .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #00ADB5;
+  border: 1px solid #0a93c3;
 }
 .comment-reply-form textarea, .comment-reply-form .btn-main, .comment-reply-form .btn-transparent, .comment-reply-form .btn-small {
   height: auto;
@@ -1239,7 +1239,7 @@ h3.quote::before {
   padding-right: 10px;
 }
 .widget.widget-category ul li a:hover {
-  color: #00ADB5;
+  color: #0a93c3;
   padding-left: 5px;
 }
 .widget.widget-tag ul li {
@@ -1258,8 +1258,8 @@ h3.quote::before {
 }
 .widget.widget-tag ul li a:hover {
   color: #fff;
-  background: #00ADB5;
-  border: 1px solid #00ADB5;
+  background: #0a93c3;
+  border: 1px solid #0a93c3;
 }
 
 .footer {
@@ -1279,7 +1279,7 @@ h3.quote::before {
   letter-spacing: 1px;
 }
 .logo span {
-  color: #00ADB5;
+  color: #0a93c3;
 }
 
 .sub-form {
@@ -1305,7 +1305,7 @@ h3.quote::before {
   z-index: 999;
   height: 40px;
   width: 40px;
-  background: #00ADB5;
+  background: #0a93c3;
   border-radius: 50%;
   text-align: center;
   line-height: 43px;
